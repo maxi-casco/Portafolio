@@ -7,7 +7,7 @@
     </div>
 </div>
 
-## ✨ The code is created by
+## ✨ The Code is created by
 
 This code is created so that I can show the skills in my repertoire of knowledge and experiences.
 
